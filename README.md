@@ -1,4 +1,4 @@
-# Deep Learning based Crip Yield Prediction
+# Machine Learning based Crip Yield Prediction
 <p align="center">
   <img src="https://github.com/akhilchibber/Plant-Seedlings-Classification/blob/main/Plant-Seedlings-Classification.jpg?raw=true" alt="earthml Logo">
 </p>
