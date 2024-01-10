@@ -1,4 +1,4 @@
-# Machine Learning based Crip Yield Prediction
+# Machine Learning based Crop Yield Prediction
 <p align="center">
   <img src="https://github.com/akhilchibber/Crop-Yield-Prediction/blob/main/Crop-Yield.png?raw=true" alt="earthml Logo">
 </p>
